@@ -6,7 +6,7 @@ export const MenuItems = [
     },
     {
         title: 'Resume',
-        url: '#',
+        url: 'Serrano_Resume.pdf',
         cName: 'nav-links'
     },
     {
